@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Leandro Facchinetti">
-  <category name="Utility">
-    <reapack name="true_cue" type="script">
-      <version name="1.0.0">
-        <source main="main" file="true_cue.lua">https://raw.githubusercontent.com/dronenb/reaper_true_cue/4d97b511319dfc54294002ee5a69d422463fe582/true_cue.lua</source>
-        <source main="main" file="auto_true_cue.lua">https://raw.githubusercontent.com/dronenb/reaper_true_cue/4d97b511319dfc54294002ee5a69d422463fe582/auto_true_cue.lua</source>
-      </version>
-  </category>
+<index version="1" name="Ben Dronen">
+    <category name="Utility">
+        <reapack name="true_cue" type="script">
+            <version name="1.0.0">
+                <source main="main" file="true_cue.lua">https://raw.githubusercontent.com/dronenb/reaper_true_cue/4d97b511319dfc54294002ee5a69d422463fe582/true_cue.lua</source>
+                <source main="main" file="auto_true_cue.lua">https://raw.githubusercontent.com/dronenb/reaper_true_cue/4d97b511319dfc54294002ee5a69d422463fe582/auto_true_cue.lua</source>
+            </version>
+        </reapack>
+    </category>
 </index>
