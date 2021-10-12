@@ -157,7 +157,7 @@ local function updateCueBus(trackSoloStatusArray)
 end
 
 local function main()
-    updateCueBus(UserSpace)
+    updateCueBus(trackSoloStatus())
 end
 
 local function init()
