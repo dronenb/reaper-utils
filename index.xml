@@ -25,16 +25,14 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 True Cue\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Set of Reascripts to create a more traditional style cue bus in REAPER. Essentially makes it so that soloing a track sends it post-fx to a bus entitled "CUE TRACK", which will not affect the master output (requires creating a fake "Master" track with solo defeat enabled). This eliminates problems when routing tracks through multiple buses prior to going to the "master" bus.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Reaper Utils\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Contained in this repository are various scripts and other things that I have written for use with REAPER.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Installation\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Add the following repository to {\field{\*\fldinst{HYPERLINK "https://reapack.com"}}{\fldrslt{\ul
 ReaPack
 }}}
 :\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/dronenb/reaper_true_cue/raw/main/index.xml\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Usage\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This requires you have two tracks, "CUE TRACK" and "MASTER TRACK". Solo defeat must be enabled on the "MASTER TRACK". If you wish, this "MASTER TRACK" can be routed to the main master track, but it is necessary to have it for the solo defeat functionality. When the solo button is pressed on any track except for the master track, it will send that track post-fx to the cue track. If no solo buttons are pressed, the "MASTER TRACK" will automatically be routed to the "CUE TRACK".\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/dronenb/reaper_utils/raw/main/index.xml\par}
 }
 ]]></description>
   </metadata>
