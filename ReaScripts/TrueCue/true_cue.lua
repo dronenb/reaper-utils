@@ -1,6 +1,7 @@
---[[
-@version 1.0.1
---]]
+-- @version 1.0.1
+-- @author Ben Dronen
+-- @description True cue bus for REAPER
+-- @about True cue bus for REAPER
 
 -- Define the names of our two important tracks
 local cueTrackName    = "CUE TRACK"
