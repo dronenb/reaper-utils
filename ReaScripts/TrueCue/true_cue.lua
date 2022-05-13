@@ -1,4 +1,7 @@
-@version 1.0.0
+--[[
+@version 1.0.1
+--]]
+
 -- Define the names of our two important tracks
 local cueTrackName    = "CUE TRACK"
 local masterTrackName = "MASTER TRACK"
