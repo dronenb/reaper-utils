@@ -5,5 +5,5 @@ Contained in this repository are various scripts and other things that I have wr
 Add the following repository to [ReaPack](https://reapack.com):
 
 ```
-https://github.com/dronenb/reaper_utils/raw/main/index.xml
+https://github.com/dronenb/reaper-utils/raw/main/index.xml
 ```
