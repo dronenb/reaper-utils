@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Ben Dronen" commit="26d3e613d834b61c854bf8854d02140f7d18de69">
+  <category name="ReaScripts">
+    <reapack name="record_at_timeline_end.lua" type="script" desc="Records at end of timeline and drops marker if already recording">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+{\pard \ql \f0 \sa180 \li0 \fi0 Records at end of timeline and drops marker if already recording\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="Ben Dronen" time="2022-05-13T16:33:30Z">
+        <source main="main">https://github.com/dronenb/reaper-utils/raw/26d3e613d834b61c854bf8854d02140f7d18de69/ReaScripts/record_at_timeline_end.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="ReaScripts/TrueCue">
+    <reapack name="auto_true_cue.lua" type="script" desc="True cue bus for REAPER">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+{\pard \ql \f0 \sa180 \li0 \fi0 True cue bus for REAPER\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" time="2022-05-13T15:44:43Z">
+        <source main="main">https://github.com/dronenb/reaper-utils/raw/c45204dbfd5f7c1dc6aaa058b5fd7efe69dc6d0c/ReaScripts/TrueCue/auto_true_cue.lua</source>
+      </version>
+      <version name="1.0.1" time="2022-05-13T16:14:36Z">
+        <source main="main">https://github.com/dronenb/reaper-utils/raw/e2ea0e307b975fd869ecd6c8b6aba0db7af9c41a/ReaScripts/TrueCue/auto_true_cue.lua</source>
+      </version>
+    </reapack>
+    <reapack name="true_cue.lua" type="script" desc="True cue bus for REAPER">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+{\pard \ql \f0 \sa180 \li0 \fi0 True cue bus for REAPER\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" time="2022-05-13T15:44:43Z">
+        <source main="main">https://github.com/dronenb/reaper-utils/raw/c45204dbfd5f7c1dc6aaa058b5fd7efe69dc6d0c/ReaScripts/TrueCue/true_cue.lua</source>
+      </version>
+      <version name="1.0.1" time="2022-05-13T16:14:36Z">
+        <source main="main">https://github.com/dronenb/reaper-utils/raw/e2ea0e307b975fd869ecd6c8b6aba0db7af9c41a/ReaScripts/TrueCue/true_cue.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Reaper Utils\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Contained in this repository are various scripts and other things that I have written for use with REAPER.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs32 Installation\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Add the following repository to {\field{\*\fldinst{HYPERLINK "https://reapack.com"}}{\fldrslt{\ul
+ReaPack
+}}}
+:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 https://github.com/dronenb/reaper-utils/raw/main/index.xml\par}
+}
+]]></description>
+  </metadata>
+</index>
